@@ -1,2 +1,2 @@
 # MyColorfulSpiral
-This is a fun Intermediate Program using Turtle
+This is a fun Intermediate Graphics Program using Turtle
